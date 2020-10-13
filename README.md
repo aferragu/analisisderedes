@@ -20,4 +20,4 @@ Orden de los temas:
 3. Cadenas de Markov de Tiempo Discreto (I, II, III).
 4. Cadenas de Markov de Tiempo Continuo (I, II)
 5. Proceso de Poisson
-6. Teoria de Colas (I, II)
+6. Teoria de Colas (I, II, III, IV)
