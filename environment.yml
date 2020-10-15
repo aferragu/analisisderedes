@@ -1,0 +1,4 @@
+name: risk_averse_sddp
+
+dependencies:
+        - rise
