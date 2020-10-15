@@ -1,4 +1,4 @@
-name: risk_averse_sddp
+name: analisis_de_redes
 
 dependencies:
         - rise
