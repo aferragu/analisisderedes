@@ -21,4 +21,4 @@ Orden de los temas:
 4. Cadenas de Markov de Tiempo Continuo (I, II)
 5. Proceso de Poisson
 6. Teoria de Colas (I, II, III, IV)
-7. Control de acceso al medio (I, II)
+7. Control de acceso al medio (I, II, WiFi)
