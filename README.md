@@ -16,7 +16,7 @@ También se puede correr en binder usando el link de arriba, o ver estático en 
 
 Orden de los temas:
 
-1. Introduccion
+1. [Introduccion](introduccion.ipynb)
 2. Repaso de Probabilidad. Introduccion a Julia.
 3. Cadenas de Markov de Tiempo Discreto (I, II, III).
 4. Cadenas de Markov de Tiempo Continuo (I, II)
