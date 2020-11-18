@@ -24,4 +24,4 @@ Orden de los temas:
 5. [Proceso de Poisson](<Proceso de Poisson.ipynb>).
 6. Teoria de Colas ([I](<Teoria de colas.ipynb>), [II](<Teoria de colas.ipynb>), [III](<Teoria de colas.ipynb>), [IV](<Teoria de colas.ipynb>)).
 7. Control de acceso al medio ([I](<Control de acceso al medio.ipynb>), [II](<Control de acceso al medio II.ipynb>), [WiFi](<Control de acceso al medio - WiFi.ipynb>)).
-8. Control de Congestion ([I](<Control de congestion I.ipynb>), [II](<Control de Congestion II.ipynb>)).
+8. Control de Congestion ([I](<Control de Congestion I.ipynb>), [II](<Control de Congestion II.ipynb>), [III](<Control de Congestion III.ipynb>)).
