@@ -29,7 +29,7 @@ También se puede correr en [binder](https://mybinder.org/v2/gh/aferragu/analisi
 
 #### Trabajos Obligatorios: 
 * [Obligatorio 1](<Obligatorio 1.ipynb>).
-* [Obligatorio 2](<Obligatorio 2.ipynb).
+* [Obligatorio 2](<Obligatorio 2.ipynb>).
 
 #### Ejercicios: 
 
