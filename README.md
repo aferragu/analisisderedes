@@ -9,13 +9,13 @@
 
 -----
 
-Cuadernos de clase y materiales.
+#### Cuadernos de clase y materiales.
 
 Para correrlos es necesario una instalación de Jupyter + Julia. Por ejemplo, instalar [Jupyter](https://jupyter.org/install.html) via [Anaconda](https://www.anaconda.com/products/individual) y luego instalar [Julia](https://julialang.org/) y el paquete [IJulia](https://github.com/JuliaLang/IJulia.jl) que agrega el kernel adecuado.
 
 También se puede correr en [binder](https://mybinder.org/v2/gh/aferragu/analisisderedes/master), o ver estático en [nbviewer](https://nbviewer.jupyter.org/github/aferragu/analisisderedes/tree/master/).
 
-Orden de los temas:
+#### Orden de los temas:
 
 1. [Introduccion.](Introduccion.ipynb).
 2. [Repaso de Probabilidad. Introduccion a Julia.](<Repaso de probabilidad. Introduccion a Julia.ipynb>).
@@ -26,3 +26,11 @@ Orden de los temas:
 7. Control de acceso al medio ([I](<Control de acceso al medio.ipynb>), [II](<Control de acceso al medio II.ipynb>), [WiFi](<Control de acceso al medio - WiFi.ipynb>)).
 8. Control de Congestion ([I](<Control de Congestion I.ipynb>), [II](<Control de Congestion II.ipynb>), [III](<Control de Congestion III.ipynb>) [IV](<Control de Congestion IV.ipynb>)).
 9. Ruteo en Internet ([I](<Ruteo en Internet.ipynb>), [II](<Ruteo en Internet II.ipynb>)).
+
+#### Trabajos Obligatorios: 
+* [Obligatorio 1](<Obligatorio 1.ipynb>).
+* [Obligatorio 2](<Obligatorio 2.ipynb).
+
+#### Ejercicios: 
+
+En la carpeta [ejercicios](ejercicios/) se encuentran los ejercicios a entregar agrupados por tema. Para la carpeta final de ejercicios, por favor seguir este orden para la entrega. 
