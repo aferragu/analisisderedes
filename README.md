@@ -27,10 +27,3 @@ También se puede correr en [binder](https://mybinder.org/v2/gh/aferragu/analisi
 8. Control de Congestion ([I](<Control de Congestion I.ipynb>), [II](<Control de Congestion II.ipynb>), [III](<Control de Congestion III.ipynb>) [IV](<Control de Congestion IV.ipynb>)).
 9. Ruteo en Internet ([I](<Ruteo en Internet.ipynb>), [II](<Ruteo en Internet II.ipynb>)).
 
-#### Trabajos Obligatorios: 
-* [Obligatorio 1](<Obligatorio 1.ipynb>).
-* [Obligatorio 2](<Obligatorio 2.ipynb>).
-
-#### Ejercicios: 
-
-En la carpeta [ejercicios](ejercicios/) se encuentran los ejercicios a entregar agrupados por tema. Para la carpeta final de ejercicios, por favor seguir este orden para la entrega. 
