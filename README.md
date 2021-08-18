@@ -15,15 +15,16 @@ Para correrlos es necesario una instalación de Jupyter + Julia. Por ejemplo, in
 
 También se puede correr en [binder](https://mybinder.org/v2/gh/aferragu/analisisderedes/master), o ver estático en [nbviewer](https://nbviewer.jupyter.org/github/aferragu/analisisderedes/tree/master/).
 
-#### Orden de los temas:
+#### Temario:
 
-1. [Introduccion.](Introduccion.ipynb).
-2. [Repaso de Probabilidad. Introduccion a Julia.](<Repaso de probabilidad. Introduccion a Julia.ipynb>).
-3. Cadenas de Markov de Tiempo Discreto ([I](<Cadenas de Markov de Tiempo Discreto.ipynb>), [II](<Cadenas de Markov de Tiempo Discreto II.ipynb>), [III](<Cadenas de Markov de Tiempo Discreto III.ipynb>)).
-4. Cadenas de Markov de Tiempo Continuo ([I](<Cadenas de Markov de Tiempo Continuo.ipynb>), [II](<Cadenas de Markov de Tiempo Continuo II.ipynb>)).
-5. [Proceso de Poisson](<Proceso de Poisson.ipynb>).
-6. Teoria de Colas ([I](<Teoria de colas.ipynb>), [II](<Teoria de colas.ipynb>), [III](<Teoria de colas.ipynb>), [IV](<Teoria de colas.ipynb>)).
-7. Control de acceso al medio ([I](<Control de acceso al medio.ipynb>), [II](<Control de acceso al medio II.ipynb>), [WiFi](<Control de acceso al medio - WiFi.ipynb>)).
-8. Control de Congestion ([I](<Control de Congestion I.ipynb>), [II](<Control de Congestion II.ipynb>), [III](<Control de Congestion III.ipynb>) [IV](<Control de Congestion IV.ipynb>)).
-9. Ruteo en Internet ([I](<Ruteo en Internet.ipynb>), [II](<Ruteo en Internet II.ipynb>)).
-
+1. Introduccion:
+	* [Introducción.](<Tema 1 - Introduccion/Introduccion.ipynb>).
+	* [Repaso de Probabilidad. Introduccion a Julia.](<Tema 1 - Introduccion/Repaso de probabilidad. Introduccion a Julia.ipynb>).
+2. Cadenas de Markov:
+ 	* Cadenas de Markov de Tiempo Discreto [I](<Tema 2 - Cadenas de Markov/Cadenas de Markov de Tiempo Discreto.ipynb>), [II](<CTema 2 - Cadenas de Markov/adenas de Markov de Tiempo Discreto II.ipynb>), [III](<Tema 2 - Cadenas de Markov/Cadenas de Markov de Tiempo Discreto III.ipynb>).
+	* Cadenas de Markov de Tiempo Continuo [I](<CTema 2 - Cadenas de Markov/adenas de Markov de Tiempo Continuo.ipynb>), [II](<Tema 2 - Cadenas de Markov/Cadenas de Markov de Tiempo Continuo II.ipynb>).
+	* [Proceso de Poisson](<Tema 2 - Cadenas de Markov/Proceso de Poisson.ipynb>).
+3. Teoria de Colas: [I](<Tema 3 - Teoria de Colas/Teoria de colas.ipynb>), [II](<Tema 3 - Teoria de Colas/Teoria de colas II.ipynb>), [III](<Tema 3 - Teoria de Colas/Teoria de colas III.ipynb>), [IV](<Tema 3 - Teoria de Colas/Teoria de colas IV.ipynb>).
+4. Control de acceso al medio y WiFi: [I](<Tema 4 - Capa de anlace y WiFi/Control de acceso al medio.ipynb>), [II](<Tema 4 - Capa de anlace y WiFi/Control de acceso al medio II.ipynb>), [WiFi](<Tema 4 - Capa de anlace y WiFi/Control de acceso al medio - WiFi.ipynb>).
+5. Control de Congestion y TCP: [I](<Tema 5 - Control de congestion y TCP/Control de Congestion I.ipynb>), [II](<Tema 5 - Control de congestion y TCP/Control de Congestion II.ipynb>), [III](<Tema 5 - Control de congestion y TCP/Control de Congestion III.ipynb>) [IV](Tema 5 - Control de congestion y TCP/<Control de Congestion IV.ipynb>).
+6. Ruteo en Internet: [I](<RTema 6 - Ruteo en Internet/uteo en Internet.ipynb>), [II](<Tema 6 - Ruteo en Internet/Ruteo en Internet II.ipynb>).
