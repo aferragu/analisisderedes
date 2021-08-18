@@ -18,8 +18,8 @@ También se puede correr en [binder](https://mybinder.org/v2/gh/aferragu/analisi
 #### Temario:
 
 1. Introduccion:
-	* [Introducción.](<Tema 1 - Introduccion/Introduccion.ipynb>).
-	* [Repaso de Probabilidad. Introduccion a Julia.](<Tema 1 - Introduccion/Repaso de probabilidad. Introduccion a Julia.ipynb>).
+	* [Introducción](<Tema 1 - Introduccion/Introduccion.ipynb>).
+	* [Repaso de Probabilidad. Introduccion a Julia](<Tema 1 - Introduccion/Repaso de probabilidad. Introduccion a Julia.ipynb>).
 2. Cadenas de Markov:
  	* Cadenas de Markov de Tiempo Discreto [I](<Tema 2 - Cadenas de Markov/Cadenas de Markov de Tiempo Discreto.ipynb>), [II](<CTema 2 - Cadenas de Markov/adenas de Markov de Tiempo Discreto II.ipynb>), [III](<Tema 2 - Cadenas de Markov/Cadenas de Markov de Tiempo Discreto III.ipynb>).
 	* Cadenas de Markov de Tiempo Continuo [I](<CTema 2 - Cadenas de Markov/adenas de Markov de Tiempo Continuo.ipynb>), [II](<Tema 2 - Cadenas de Markov/Cadenas de Markov de Tiempo Continuo II.ipynb>).
