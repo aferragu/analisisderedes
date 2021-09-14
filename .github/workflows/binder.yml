@@ -9,4 +9,4 @@ jobs:
     steps:
       - uses: s-weigand/trigger-mybinder-build@v1
         with:
-          target-repo: aferragu/analisisderedes/master
+          target-repo: aferragu/analisisderedes
