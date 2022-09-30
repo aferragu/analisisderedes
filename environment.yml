@@ -1,4 +1,7 @@
-name: analisis_de_redes
+name: analisisderedes
+channels:
+ - conda-forge
 
 dependencies:
-        - rise
+ - notebook
+ - rise
