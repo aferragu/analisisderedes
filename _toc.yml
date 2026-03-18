@@ -1,0 +1,40 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Introducción
+    chapters:
+    - file: "Tema 1 - Introduccion/Introduccion.ipynb"
+    - file: "Tema 1 - Introduccion/Repaso de probabilidad. Introduccion a Julia.ipynb"
+  - caption: Cadenas de Markov
+    chapters:
+    - file: "Tema 2 - Cadenas de Markov/Cadenas de Markov de Tiempo Discreto.ipynb"
+    - file: "Tema 2 - Cadenas de Markov/Cadenas de Markov de Tiempo Discreto II.ipynb"
+    - file: "Tema 2 - Cadenas de Markov/Cadenas de Markov de Tiempo Discreto III.ipynb"
+    - file: "Tema 2 - Cadenas de Markov/Cadenas de Markov de Tiempo Continuo.ipynb"
+    - file: "Tema 2 - Cadenas de Markov/Cadenas de Markov de Tiempo Continuo II.ipynb"
+    - file: "Tema 2 - Cadenas de Markov/Proceso de Poisson.ipynb"
+  - caption: Teoría de Colas
+    chapters:
+    - file: "Tema 3 - Teoria de Colas/Teoria de colas.ipynb"
+    - file: "Tema 3 - Teoria de Colas/Teoria de colas II.ipynb" 
+    - file: "Tema 3 - Teoria de Colas/Teoria de colas III.ipynb" 
+    - file: "Tema 3 - Teoria de Colas/Teoria de colas IV.ipynb"
+    - file: "Tema 3 - Teoria de Colas/Comparacion de disciplinas - anexo a Teoria de colas IV.ipynb"     
+  - caption: Capa de Enlace y WiFi
+    chapters:
+    - file: "Tema 4 - Capa de anlace y WiFi/Control de acceso al medio.ipynb"
+    - file: "Tema 4 - Capa de anlace y WiFi/Control de acceso al medio II.ipynb"
+    - file: "Tema 4 - Capa de anlace y WiFi/Control de acceso al medio - WiFi.ipynb"    
+  - caption: Control de Congestion y TCP
+    chapters:
+    - file: "Tema 5 - Control de congestion y TCP/Control de Congestion I.ipynb"
+    - file: "Tema 5 - Control de congestion y TCP/Control de Congestion II.ipynb"
+    - file: "Tema 5 - Control de congestion y TCP/Control de Congestion III.ipynb" 
+    - file: "Tema 5 - Control de congestion y TCP/Control de Congestion IV.ipynb"
+  - caption: Ruteo en Internet
+    chapters:
+    - file: "Tema 6 - Ruteo en Internet/Ruteo en Internet.ipynb"
+    - file: "Tema 6 - Ruteo en Internet/Ruteo en Internet II.ipynb"

@@ -2,3 +2,6 @@
 borradores
 Manifest.toml
 *.gif
+
+# MyST build outputs
+_build

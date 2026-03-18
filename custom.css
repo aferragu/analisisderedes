@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+h1.logo {
+
+	font-family: Oswald, Helvetica;
+	font-weight: normal;
+}
+
+div.sphinxsidebar p.caption {
+	font-family: Oswald, Helvetica;
+	font-size: 16pt
+}
+
+div.sphinxsidebar {
+	font-size: 12px;
+}
