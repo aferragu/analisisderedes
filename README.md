@@ -1,5 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aferragu/analisisderedes/master)
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/aferragu/analisisderedes/tree/master/)
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://aferragu.github.io/analisisderedes)
 
 # Curso: Analisis de Redes
 
