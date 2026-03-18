@@ -14,3 +14,7 @@ div.sphinxsidebar p.caption {
 div.sphinxsidebar {
 	font-size: 12px;
 }
+
+div.toctree-wrapper p.caption {
+	font-family: Oswald, Helvetica;
+}
