@@ -1,12 +1,12 @@
-name: 'Trigger-Binder-build'
-on:
-  push:
-    branches:
-      - master
+name: Binder
+on: [push]
+
 jobs:
-  trigger-binder-build:
-    runs-on: [ubuntu-latest]
+  Create-MyBinderOrg-Cache:
+    runs-on: ubuntu-latest
     steps:
-      - uses: s-weigand/trigger-mybinder-build@v1
-        with:
-          target-repo: aferragu/analisisderedes
+    - name: cache binder build on mybinder.org
+      uses: jupyterhub/repo2docker-action@master
+      with:
+        NO_PUSH: true
+        MYBINDERORG_TAG: ${{ github.event.ref }} # This builds the container on mybinder.org with the branch that was pushed on.
