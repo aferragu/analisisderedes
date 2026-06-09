@@ -22,7 +22,8 @@ parts:
     - file: "Tema 3 - Teoria de Colas/Teoria de colas II.ipynb" 
     - file: "Tema 3 - Teoria de Colas/Teoria de colas III.ipynb" 
     - file: "Tema 3 - Teoria de Colas/Teoria de colas IV.ipynb"
-    - file: "Tema 3 - Teoria de Colas/Redes de Jackson.ipynb"     
+    - file: "Tema 3 - Teoria de Colas/Redes de Jackson.ipynb"    
+    - file: "Tema 3 - Teoria de Colas/Balanceo de carga.ipynb" 
   - caption: Capa de Enlace y WiFi
     chapters:
     - file: "Tema 4 - Capa de anlace y WiFi/Control de acceso al medio.ipynb"
