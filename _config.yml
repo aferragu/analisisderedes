@@ -54,4 +54,5 @@ parse:
     # including those that are enabled by default!
     - dollarmath
     - smartquotes
+    - amsmath
   myst_dmath_double_inline: true
