@@ -22,20 +22,23 @@ parts:
     - file: "Tema 3 - Teoria de Colas/Teoria de colas II.ipynb" 
     - file: "Tema 3 - Teoria de Colas/Teoria de colas III.ipynb" 
     - file: "Tema 3 - Teoria de Colas/Teoria de colas IV.ipynb"
-    - file: "Tema 3 - Teoria de Colas/Redes de Jackson.ipynb"    
-    - file: "Tema 3 - Teoria de Colas/Balanceo de Carga.ipynb" 
+  - caption: Redes de colas y Sistemas en la nube
+    chapters:
+    - file: "Tema 4 - Redes de colas y cloud systems/Redes de Jackson.ipynb"    
+    - file: "Tema 4 - Redes de colas y cloud systems/Balanceo de Carga.ipynb"
+    - file: "Tema 4 - Redes de colas y cloud systems/Monitoreo escalable.ipynb"
   - caption: Capa de Enlace y WiFi
     chapters:
-    - file: "Tema 4 - Capa de anlace y WiFi/Control de acceso al medio.ipynb"
-    - file: "Tema 4 - Capa de anlace y WiFi/Control de acceso al medio II.ipynb"
-    - file: "Tema 4 - Capa de anlace y WiFi/Control de acceso al medio - WiFi.ipynb"    
+    - file: "Tema 5 - Capa de anlace y WiFi/Control de acceso al medio.ipynb"
+    - file: "Tema 5 - Capa de anlace y WiFi/Control de acceso al medio II.ipynb"
+    - file: "Tema 5 - Capa de anlace y WiFi/Control de acceso al medio - WiFi.ipynb"    
   - caption: Control de Congestion y TCP
     chapters:
-    - file: "Tema 5 - Control de congestion y TCP/Control de Congestion I.ipynb"
-    - file: "Tema 5 - Control de congestion y TCP/Control de Congestion II.ipynb"
-    - file: "Tema 5 - Control de congestion y TCP/Control de Congestion III.ipynb" 
-    - file: "Tema 5 - Control de congestion y TCP/Control de Congestion IV.ipynb"
+    - file: "Tema 6 - Control de congestion y TCP/Control de Congestion I.ipynb"
+    - file: "Tema 6 - Control de congestion y TCP/Control de Congestion II.ipynb"
+    - file: "Tema 6 - Control de congestion y TCP/Control de Congestion III.ipynb" 
+    - file: "Tema 6 - Control de congestion y TCP/Control de Congestion IV.ipynb"
   - caption: Ruteo en Internet
     chapters:
-    - file: "Tema 6 - Ruteo en Internet/Ruteo en Internet.ipynb"
-    - file: "Tema 6 - Ruteo en Internet/Ruteo en Internet II.ipynb"
+    - file: "Tema 7 - Ruteo en Internet/Ruteo en Internet.ipynb"
+    - file: "Tema 7 - Ruteo en Internet/Ruteo en Internet II.ipynb"
